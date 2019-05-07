@@ -1,0 +1,10 @@
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\bin\Debug\PracticaRTS.exe.config
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\bin\Debug\PracticaRTS.exe
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\bin\Debug\PracticaRTS.pdb
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\obj\Debug\PracticaRTS.csprojAssemblyReference.cache
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\obj\Debug\PracticaRTS.Form1.resources
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\obj\Debug\PracticaRTS.Properties.Resources.resources
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\obj\Debug\PracticaRTS.csproj.GenerateResource.cache
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\obj\Debug\PracticaRTS.csproj.CoreCompileInputs.cache
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\obj\Debug\PracticaRTS.exe
+C:\Users\dany-\Universidad\Graficación\Parcial 2\Prácticas\RTS\PracticaRTS\PracticaRTS\obj\Debug\PracticaRTS.pdb
